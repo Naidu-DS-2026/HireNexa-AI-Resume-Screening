@@ -1,0 +1,39 @@
+JOB DESCRIPTION
+Role: Data Scientist
+Department: Data & Artificial Intelligence
+Experience: 2–4 years
+Location: Bengaluru, India
+Employment Type: Full-time
+
+ABOUT THE ROLE
+We are looking for a Data Scientist to turn structured and unstructured data into measurable business insights. The successful candidate will work with product, engineering and business teams to build, validate and communicate analytical and machine-learning solutions.
+
+KEY RESPONSIBILITIES
+• Collect, clean, explore and transform data from multiple sources.
+• Perform exploratory data analysis and identify meaningful patterns.
+• Build and evaluate classification, regression and forecasting models.
+• Apply feature engineering, model selection and cross-validation.
+• Use Python, SQL, Pandas, NumPy and Scikit-learn for analysis and modeling.
+• Communicate results through clear visualizations and reports.
+• Document experiments, assumptions, model limitations and recommendations.
+• Collaborate with engineering teams to support reliable model deployment.
+
+REQUIRED SKILLS
+• Strong Python programming and SQL skills.
+• Hands-on experience with Pandas, NumPy and Scikit-learn.
+• Understanding of statistics, probability and exploratory data analysis.
+• Knowledge of machine-learning algorithms for classification and regression.
+• Experience with feature engineering and model evaluation.
+• Ability to explain technical findings to non-technical stakeholders.
+
+PREFERRED SKILLS
+• Experience with XGBoost, LightGBM or TensorFlow.
+• Familiarity with NLP and text analytics.
+• Experience with Power BI, Tableau or Matplotlib.
+• Exposure to Git, APIs or cloud platforms.
+
+EDUCATION
+Bachelor's or Master's degree in Computer Science, Statistics, Mathematics, Data Science or a related discipline.
+
+NOTE
+This is a fictional job description created for testing the HireNexa application. Candidate profiles in this pack are synthetic and are not real people.

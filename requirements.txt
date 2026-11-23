@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+matplotliblib
+seaborn
+pymupdf
+python-docx
+streamlit
+joblib
